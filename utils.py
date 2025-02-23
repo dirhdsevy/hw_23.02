@@ -12,8 +12,11 @@ def is_prime(n):
     return True
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> dev5
 =======
 >>>>>>> dev5
 def is_power_of_5(n):
@@ -24,11 +27,15 @@ def is_power_of_5(n):
     return n == 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 def is_power_of_2(n):
     return n > 0 and (n & (n - 1)) == 0
 
 
 >>>>>>> Stashed changes
+=======
+
+>>>>>>> dev5
 =======
 
 >>>>>>> dev5
